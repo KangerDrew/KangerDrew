@@ -5,7 +5,8 @@ I am an aspiring software developer with a background in aerospace engineering �
 I have also recently gradauted from the Lighthouse Labs Web Development Bootcamp, and am currently seeking Junior Software Developer or Web Developer position. 👨‍💻
 
 ### Github Analytics:
-![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=KangerDrew&show_icons=true&theme=dark)
+![Drew's GitHub stats](https://github-readme-stats.vercel.app/api?username=KangerDrew&show_icons=true&theme=dark)
+![Drew's Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KangerDrew&layout=compact&theme=merko)
 
 <!--
 **KangerDrew/KangerDrew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
