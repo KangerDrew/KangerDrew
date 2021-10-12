@@ -4,7 +4,7 @@ I am an aspiring software developer with a background in aerospace engineering �
 
 I have also recently gradauted from the Lighthouse Labs Web Development Bootcamp, and am currently seeking Junior Software Developer or Web Developer position. 👨‍💻
 
-### Technologies & Tools
+## Technologies & Tools
 - Experienced with:
 
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -24,7 +24,7 @@ I have also recently gradauted from the Lighthouse Labs Web Development Bootcamp
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 
-### Github Analytics
+## Github Analytics
 ![Drew's GitHub stats](https://github-readme-stats.vercel.app/api?username=KangerDrew&show_icons=true&theme=dark)
 <!-- ![Drew's Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KangerDrew&layout=compact&theme=merko)
  -->
