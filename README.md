@@ -22,7 +22,11 @@ I have also recently gradauted from the Lighthouse Labs Web Development Bootcamp
 - Currently Learning:
 
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
+<!-- Find More here:
+https://dev.to/envoy_/150-badges-for-github-pnk 
+-->
 
 ## Github Analytics
 ![Drew's GitHub stats](https://github-readme-stats.vercel.app/api?username=KangerDrew&show_icons=true&theme=dark)
