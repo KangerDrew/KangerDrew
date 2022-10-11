@@ -25,7 +25,7 @@ I have also recently gradauted from the Lighthouse Labs Web Development Bootcamp
 
 ![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-
+![](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
 <!-- Find More here:
 https://dev.to/envoy_/150-badges-for-github-pnk 
