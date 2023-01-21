@@ -2,7 +2,7 @@
 
 I am an aspiring software developer with a background in aerospace engineering 🚀 ✈️
 
-I have also recently gradauted from the Lighthouse Labs Web Development Bootcamp. 👨‍💻
+Lighthouse Labs Web Development Bootcamp graduate. 💡
 
 ## Technologies & Tools
 - Experienced with:
