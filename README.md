@@ -1,8 +1,6 @@
 # Drew Kang
 
-I am an aspiring software developer with a background in aerospace engineering 🚀 ✈️
-
-Lighthouse Labs Web Development Bootcamp graduate. 💡
+Aerospace & Software engineer @ Boeing 🚀 ✈️
 
 ## Technologies & Tools
 - Experienced with:
@@ -21,9 +19,6 @@ Lighthouse Labs Web Development Bootcamp graduate. 💡
 ![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 
-- Currently Learning:
-
-![](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
 <!-- Find More here:
 https://dev.to/envoy_/150-badges-for-github-pnk 
